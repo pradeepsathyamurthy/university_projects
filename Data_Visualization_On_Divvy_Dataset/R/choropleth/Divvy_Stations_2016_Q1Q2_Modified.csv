@@ -1,0 +1,536 @@
+zip,district,actual_id,id,name,latitude,longitude,dpcapacity,online_date
+60659,Far North Side,456,50,2112 W Peterson Ave,41.991178,-87.683593,15,05-12-2015
+60649,Other South Sides,101,11,63rd St Beach,41.781016,-87.57612,23,4/20/2015
+60659,Far North Side,109,50,900 W Harrison St,41.874675,-87.650019,19,08-06-2013
+60607,Downtown,21,29,Aberdeen St & Jackson Blvd,41.877726,-87.654787,15,6/21/2013
+60607,Downtown,80,29,Aberdeen St & Monroe St,41.880456,-87.653929,19,6/26/2013
+60607,Downtown,346,29,Ada St & Washington Blvd,41.88283,-87.661206,15,10-10-2013
+60605,Downtown,341,20,Adler Planetarium,41.866095,-87.607267,19,10-09-2013
+60623,Other South Sides,444,57,Albany Ave & 26th St,41.844475,-87.702013,19,4/29/2015
+60647,Downtown,511,33,Albany Ave & Bloomingdale Ave,41.914027,-87.705126,15,05-09-2015
+60612,Downtown,376,16,Artesian Ave & Hubbard St,41.889492,-87.688219,35,4/27/2015
+60608,Downtown,275,28,Ashland Ave & 13th St,41.865234,-87.666507,15,09-12-2013
+60608,Downtown,208,28,Ashland Ave & 21st St,41.85381,-87.665897,15,8/15/2013
+60609,Other South Sides,555,22,Ashland Ave & 50th St,41.803023,-87.664699,11,6/17/2016
+60636,Other South Sides,563,10,Ashland Ave & 63rd St,41.779374,-87.664843,15,6/20/2016
+60636,Other South Sides,565,10,Ashland Ave & 66th St,41.774074,-87.663815,11,6/21/2016
+60636,Other South Sides,566,10,Ashland Ave & 69th St,41.768726,-87.664069,11,6/23/2016
+60608,Downtown,368,28,Ashland Ave & Archer Ave,41.839209,-87.66561,19,4/13/2015
+60622,Downtown,30,36,Ashland Ave & Augusta Blvd,41.899643,-87.6677,15,6/22/2013
+60613,North Side ,246,53,Ashland Ave & Belle Plaine Ave,41.956061,-87.668869,11,8/26/2013
+60622,Downtown,333,36,Ashland Ave & Blackhawk St,41.907066,-87.667252,15,9/27/2013
+60642,Downtown,350,46,Ashland Ave & Chicago Ave,41.895966,-87.667747,15,10/22/2013
+60622,Downtown,210,36,Ashland Ave & Division St,41.90345,-87.667747,19,8/16/2013
+60609,Other South Sides,558,22,Ashland Ave & Garfield Blvd,41.792822,-87.664429,11,6/20/2016
+60613,North Side ,347,53,Ashland Ave & Grace St,41.950687,-87.6687,15,10-12-2013
+60622,Downtown,277,36,Ashland Ave & Grand Ave,41.891072,-87.666611,15,09-12-2013
+60612,Downtown,383,16,Ashland Ave & Harrison St,41.874291,-87.667246,23,4/27/2015
+60612,Downtown,119,16,Ashland Ave & Lake St,41.88541,-87.66732,19,7/28/2013
+60609,Other South Sides,552,22,Ashland Ave & McDowell Ave,41.80887,-87.66454,11,6/17/2016
+60609,Other South Sides,547,22,Ashland Ave & Pershing Rd,41.823465,-87.665577,11,6/16/2016
+60657,North Side ,250,7,Ashland Ave & Wellington Ave,41.936083,-87.669807,19,8/26/2013
+60614,North Side ,166,32,Ashland Ave & Wrightwood Ave,41.92883,-87.668507,15,7/25/2013
+60644,Other South Sides,532,18,Austin Blvd & Lake St,41.887919,-87.774446,15,06-10-2016
+60618,North Side ,496,24,Avers Ave & Belmont Ave,41.939448,-87.723554,19,5/13/2015
+60614,North Side ,113,32,Bissell St & Armitage Ave,41.91844,-87.65222,15,09-05-2013
+60615,Other South Sides,121,8,Blackstone Ave & Hyde Park Blvd,41.802562,-87.590368,19,8/28/2013
+60608,Downtown,129,28,Blue Island Ave & 18th St,41.857556,-87.661535,15,7/25/2013
+60640,North Side ,295,4,Broadway & Argyle St,41.972972,-87.659637,15,9/18/2013
+60657,North Side ,300,7,Broadway & Barry Ave,41.937725,-87.644095,19,9/19/2013
+60657,North Side ,296,7,Broadway & Belmont Ave,41.940106,-87.645451,15,9/18/2013
+60640,North Side ,294,4,Broadway & Berwyn Ave,41.978353,-87.659753,15,9/18/2013
+60657,North Side ,303,7,Broadway & Cornelia Ave,41.945512,-87.64598,15,9/19/2013
+60660,Far North Side,454,3,Broadway & Granville Ave,41.99478,-87.660285,15,05-11-2015
+60640,North Side ,461,4,Broadway & Ridge Ave,41.984045,-87.660274,15,05-11-2015
+60613,North Side ,256,53,Broadway & Sheridan Rd,41.952833,-87.649993,15,09-05-2013
+60660,Far North Side,458,3,Broadway & Thorndale Ave,41.989743,-87.660141,19,05-11-2015
+60613,North Side ,304,53,Broadway & Waveland Ave,41.949546,-87.648674,15,9/19/2013
+60640,North Side ,293,4,Broadway & Wilson Ave,41.965485,-87.657238,19,9/18/2013
+60605,Downtown,2,20,Buckingham Fountain,41.872667,-87.623971,35,05-08-2015
+60659,Far North Side,468,50,Budlong Woods Library,41.983665,-87.696423,15,05-06-2015
+60605,Downtown,4,20,Burnham Harbor,41.856268,-87.613348,23,5/16/2015
+60608,Downtown,348,28,California Ave & 21st St,41.854016,-87.695445,15,10/14/2013
+60608,Downtown,442,28,California Ave & 23rd Pl,41.84911,-87.69514,15,4/28/2015
+60623,Other South Sides,445,57,California Ave & 26th St,41.84404,-87.695296,19,4/29/2015
+60647,Downtown,502,33,California Ave & Altgeld St,41.926618,-87.697899,19,5/13/2015
+60618,North Side ,487,24,California Ave & Byron St,41.952162,-87.698051,19,07-07-2015
+60622,Downtown,216,36,California Ave & Division St,41.903029,-87.697474,15,8/16/2013
+60618,North Side ,498,24,California Ave & Fletcher St,41.938429,-87.698008,19,05-04-2015
+60647,Downtown,259,33,California Ave & Francis Pl,41.918121,-87.696972,15,09-12-2013
+60612,Downtown,378,16,California Ave & Lake St,41.884454,-87.696298,15,4/27/2015
+60647,Downtown,123,33,California Ave & Milwaukee Ave,41.922695,-87.697153,15,7/26/2013
+60618,North Side ,481,24,California Ave & Montrose Ave,41.961068,-87.695439,15,07-07-2015
+60647,Downtown,276,33,California Ave & North Ave,41.91044,-87.6972,11,09-12-2013
+60616,Downtown,338,25,Calumet Ave & 18th St,41.857611,-87.619407,15,9/28/2013
+60616,Downtown,370,25,Calumet Ave & 21st St,41.854184,-87.619154,15,05-01-2015
+60616,Downtown,149,25,Calumet Ave & 33rd St,41.8349,-87.61793,11,08-03-2013
+60616,Downtown,335,25,Calumet Ave & 35th St,41.831379,-87.618034,15,10/17/2013
+60615,Other South Sides,415,8,Calumet Ave & 51st St,41.802295,-87.618054,19,4/16/2015
+60619,Other South Sides,393,61,Calumet Ave & 71st St,41.765508,-87.616918,15,4/21/2015
+60647,Downtown,504,33,Campbell Ave & Fullerton Ave,41.924632,-87.689307,15,5/21/2015
+60618,North Side ,482,24,Campbell Ave & Montrose Ave,41.961526,-87.691165,15,5/14/2015
+60647,Downtown,160,33,Campbell Ave & North Ave,41.910535,-87.689556,15,7/26/2013
+60606,Downtown,192,31,Canal St & Adams St,41.879255,-87.639904,47,08-07-2013
+60699,Other South Sides,169,,Canal St & Harrison St,41.874337,-87.639566,15,7/23/2013
+60606,Downtown,75,31,Canal St & Jackson Blvd,41.878412,-87.641052,31,6/15/2013
+60606,Downtown,174,31,Canal St & Madison St,41.882091,-87.639833,27,7/28/2013
+60606,Downtown,191,31,Canal St & Monroe St,41.880884,-87.639525,23,08-07-2013
+60607,Downtown,414,29,Canal St & Taylor St,41.870257,-87.639474,15,11/25/2015
+60614,North Side ,34,32,Cannon Dr & Fullerton Ave,41.926756,-87.634429,15,6/27/2013
+60642,Downtown,92,46,Carpenter St & Huron St,41.894556,-87.653449,19,6/26/2013
+60644,Other South Sides,541,18,Central Ave & Harrison St,41.872993,-87.764499,15,6/14/2016
+60644,Other South Sides,542,18,Central Ave & Madison St,41.880121,-87.763238,15,6/14/2016
+60618,North Side ,500,24,Central Park Ave & Elbridge Ave,41.935337,-87.716889,15,05-04-2015
+60647,Downtown,508,33,Central Park Ave & North Ave,41.909657,-87.716632,15,4/30/2015
+60623,Other South Sides,438,57,Central Park Ave & Ogden Ave,41.854204,-87.715406,19,4/29/2015
+60624,Other South Sides,533,17,Central Park Blvd & 5th Ave,41.875679,-87.71547,15,06-10-2016
+60625,North Side ,474,5,Christiana Ave & Lawrence Ave,41.968354,-87.711831,15,5/16/2015
+60644,Other South Sides,538,18,Cicero Ave & Flournoy St,41.872131,-87.746619,15,6/15/2016
+60644,Other South Sides,529,18,Cicero Ave & Lake St,41.886841,-87.745261,15,06-10-2016
+60644,Other South Sides,539,18,Cicero Ave & Quincy St,41.877613,-87.745405,15,6/14/2016
+60611,Downtown,196,38,Cityfront Plaza Dr & Pioneer Ct,41.890573,-87.622072,19,08-10-2013
+60622,Downtown,159,36,Claremont Ave & Hirsch St,41.907781,-87.685854,11,7/26/2013
+60613,North Side ,312,53,Clarendon Ave & Gordon Ter,41.957879,-87.649519,15,9/20/2013
+60613,North Side ,245,53,Clarendon Ave & Junior Ter,41.961004,-87.649603,15,8/26/2013
+60640,North Side ,251,4,Clarendon Ave & Leland Ave,41.967968,-87.650001,15,8/26/2013
+60605,Downtown,394,20,Clark St & 9th St (AMLI),41.870816,-87.631246,15,8/26/2015
+60614,North Side ,94,32,Clark St & Armitage Ave,41.918306,-87.636282,19,6/22/2013
+60640,North Side ,463,4,Clark St & Berwyn Ave,41.977997,-87.668047,19,5/14/2015
+60660,Far North Side,460,3,Clark St & Bryn Mawr Ave,41.983593,-87.669154,15,05-11-2015
+60654,Downtown,337,55,Clark St & Chicago Ave,41.896544,-87.630931,19,9/27/2013
+60626,Other South Sides,449,1,Clark St & Columbia Ave,42.004451,-87.672402,15,05-12-2015
+60605,Downtown,50,20,Clark St & Congress Pkwy,41.875933,-87.630585,27,6/16/2013
+60610,Downtown,176,54,Clark St & Elm St,41.903233,-87.631253,19,08-01-2013
+60660,Far North Side,457,3,Clark St & Elmdale Ave,41.990894,-87.669583,19,05-11-2015
+60613,North Side ,165,53,Clark St & Grace St,41.95078,-87.659172,19,08-03-2013
+60601,Downtown,38,27,Clark St & Lake St,41.886021,-87.630876,27,4/18/2015
+60640,North Side ,326,4,Clark St & Leland Ave,41.967096,-87.667429,11,9/27/2013
+60614,North Side ,141,32,Clark St & Lincoln Ave,41.915689,-87.6346,23,8/16/2013
+60626,Other South Sides,432,1,Clark St & Lunt Ave,42.009069,-87.673711,15,5/15/2015
+60613,North Side ,234,53,Clark St & Montrose Ave,41.961588,-87.666036,19,8/21/2013
+60610,Downtown,126,54,Clark St & North Ave,41.911974,-87.631942,15,7/29/2013
+60601,Downtown,51,27,Clark St & Randolph St,41.884576,-87.63189,31,6/17/2013
+60610,Downtown,301,54,Clark St & Schiller St,41.907993,-87.631501,19,9/19/2013
+60626,Other South Sides,453,1,Clark St & Schreiber Ave,41.999252,-87.671377,15,05-12-2015
+60626,Other South Sides,353,1,Clark St & Touhy Ave,42.01256,-87.674367,15,5/18/2015
+60657,North Side ,156,7,Clark St & Wellington Ave,41.936497,-87.647539,15,08-02-2013
+60640,North Side ,325,4,Clark St & Winnemac Ave,41.973385,-87.668365,19,9/23/2013
+60614,North Side ,340,32,Clark St & Wrightwood Ave,41.929546,-87.643118,15,10/24/2013
+60614,North Side ,223,32,Clifton Ave & Armitage Ave,41.918216,-87.656936,15,8/22/2013
+60640,North Side ,253,4,Clifton Ave & Lawrence Ave,41.968873,-87.658857,15,09-05-2013
+60616,Downtown,170,25,Clinton St & 18th St,41.85795,-87.640826,15,7/25/2013
+60661,Downtown,66,30,Clinton St & Lake St,41.885464,-87.641253,19,6/20/2013
+60661,Downtown,77,30,Clinton St & Madison St,41.882242,-87.641066,31,6/15/2013
+60607,Downtown,103,29,Clinton St & Polk St,41.871467,-87.640949,15,05-08-2015
+60607,Downtown,57,29,Clinton St & Roosevelt Rd,41.867118,-87.641088,15,6/17/2013
+60607,Downtown,68,29,Clinton St & Tilden St,41.875885,-87.640795,23,6/24/2013
+60661,Downtown,91,30,Clinton St & Washington Blvd,41.88338,-87.64117,31,6/15/2013
+60610,Downtown,138,54,Clybourn Ave & Division St,41.904613,-87.640552,15,08-05-2013
+60601,Downtown,195,27,Columbus Dr & Randolph St,41.884728,-87.619521,31,08-10-2013
+60624,Other South Sides,518,17,Conservatory Dr & Lake St,41.885502,-87.716866,15,06-02-2016
+60615,Other South Sides,417,8,Cornell Ave & Hyde Park Blvd,41.802406,-87.586924,19,4/16/2015
+60653,Other South Sides,271,21,Cottage Grove Ave & 43rd St,41.816499,-87.606582,11,09-12-2013
+60615,Other South Sides,336,8,Cottage Grove Ave & 47th St,41.809855,-87.606755,15,10/17/2013
+60615,Other South Sides,351,8,Cottage Grove Ave & 51st St,41.803038,-87.606615,15,10/17/2013
+60637,Other South Sides,427,60,Cottage Grove Ave & 63rd St,41.780599,-87.606112,19,4/20/2015
+60637,Other South Sides,429,60,Cottage Grove Ave & 67th St,41.773721,-87.605635,15,4/21/2015
+60619,Other South Sides,400,61,Cottage Grove Ave & 71st St,41.765719,-87.60496,19,4/21/2015
+60653,Other South Sides,265,21,Cottage Grove Ave & Oakwood Blvd,41.822985,-87.6071,15,9/17/2013
+60602,Downtown,81,26,Daley Center Plaza,41.884241,-87.629634,39,6/13/2013
+60609,Other South Sides,554,22,Damen Ave & 51st St,41.800908,-87.674684,11,6/17/2016
+60636,Other South Sides,561,10,Damen Ave & 61st St,41.783681,-87.674101,11,6/21/2016
+60622,Downtown,183,36,Damen Ave & Augusta Blvd,41.899714,-87.677234,15,7/26/2013
+60647,Downtown,310,33,Damen Ave & Charleston St,41.920082,-87.677855,11,9/20/2013
+60622,Downtown,128,36,Damen Ave & Chicago Ave,41.895769,-87.67722,15,08-03-2013
+60618,North Side ,163,24,Damen Ave & Clybourn Ave,41.931931,-87.677856,15,7/29/2013
+60647,Downtown,219,33,Damen Ave & Cortland St,41.916027,-87.677411,11,8/20/2013
+60608,Downtown,167,28,Damen Ave & Coulter St,41.8492,-87.67564,11,7/25/2013
+60608,Downtown,124,28,Damen Ave & Cullerton St,41.855048,-87.675726,15,08-03-2013
+60622,Downtown,130,36,Damen Ave & Division St,41.90331,-87.67695,15,7/26/2013
+60625,North Side ,464,5,Damen Ave & Foster Ave,41.975615,-87.679459,15,5/13/2015
+60636,Other South Sides,557,10,Damen Ave & Garfield Blvd,41.794587,-87.674254,11,6/20/2016
+60622,Downtown,214,36,Damen Ave & Grand Ave,41.89122,-87.67686,15,8/16/2013
+60625,North Side ,242,5,Damen Ave & Leland Ave,41.967094,-87.679028,15,8/22/2013
+60612,Downtown,215,16,Damen Ave & Madison St,41.88137,-87.67493,15,8/15/2013
+60657,North Side ,228,7,Damen Ave & Melrose Ave,41.9406,-87.6785,11,8/20/2013
+60609,Other South Sides,546,22,Damen Ave & Pershing Rd,41.823192,-87.676597,11,6/16/2016
+60622,Downtown,69,36,Damen Ave & Pierce Ave,41.909396,-87.677692,19,6/24/2013
+60625,North Side ,316,5,Damen Ave & Sunnyside Ave,41.96325,-87.679258,19,9/25/2013
+60618,North Side ,162,24,Damen Ave & Wellington Ave,41.93588,-87.67842,15,7/25/2013
+60614,North Side ,60,32,Dayton St & North Ave,41.910578,-87.649422,19,6/18/2013
+60610,Downtown,140,54,Dearborn Pkwy & Delaware Pl,41.898969,-87.629912,19,08-01-2013
+60604,Downtown,37,48,Dearborn St & Adams St,41.879356,-87.629791,19,6/16/2013
+60654,Downtown,110,55,Dearborn St & Erie St,41.893992,-87.629318,23,08-01-2013
+60603,Downtown,49,19,Dearborn St & Monroe St,41.88132,-87.629521,27,6/16/2013
+60661,Downtown,107,30,Desplaines St & Jackson Blvd,41.878287,-87.643909,23,4/25/2015
+60654,Downtown,56,55,Desplaines St & Kinzie St,41.888716,-87.644448,27,6/17/2013
+60661,Downtown,96,30,Desplaines St & Randolph St,41.884616,-87.644571,23,4/25/2015
+60615,Other South Sides,416,8,Dorchester Ave & 49th St,41.805772,-87.592464,15,4/16/2015
+60637,Other South Sides,428,60,Dorchester Ave & 63rd St,41.780406,-87.591416,15,4/20/2015
+60618,North Side ,489,24,Drake Ave & Addison St,41.946782,-87.716422,23,5/13/2015
+60647,Downtown,503,33,Drake Ave & Fullerton Ave,41.924399,-87.715441,15,05-01-2015
+60618,North Side ,479,24,Drake Ave & Montrose Ave,41.961154,-87.716569,11,05-05-2015
+60601,Downtown,6,27,DuSable Harbor,41.885042,-87.612795,31,4/24/2015
+60637,Other South Sides,422,60,DuSable Museum,41.791568,-87.607852,15,07-07-2015
+60637,Other South Sides,431,60,Eberhart Ave & 61st St,41.784142,-87.613308,15,4/20/2015
+60653,Other South Sides,86,21,Eckhart Park,41.896373,-87.660984,15,6/26/2013
+60609,Other South Sides,553,22,Elizabeth St & 47th St,41.80839,-87.656526,11,6/16/2016
+60615,Other South Sides,418,8,Ellis Ave & 53rd St,41.799336,-87.600958,11,4/17/2015
+60615,Other South Sides,420,8,Ellis Ave & 55th St,41.794301,-87.60145,19,4/17/2015
+60637,Other South Sides,328,60,Ellis Ave & 58th St,41.788746,-87.601334,15,9/25/2013
+60637,Other South Sides,426,60,Ellis Ave & 60th St,41.785097,-87.601073,19,4/17/2015
+60642,Downtown,315,46,Elston Ave & Wabansia Ave,41.912919,-87.664169,23,9/21/2013
+60616,Downtown,207,25,Emerald Ave & 28th St,41.84358,-87.645368,15,8/15/2013
+60616,Downtown,339,25,Emerald Ave & 31st St,41.838198,-87.645143,11,9/28/2013
+60619,Other South Sides,570,61,Evans Ave & 75th St,41.758308,-87.606685,11,6/23/2016
+60611,Downtown,24,38,Fairbanks Ct & Grand Ave,41.89186,-87.62062,15,6/21/2013
+60608,Downtown,436,28,Fairfield Ave & Roosevelt Rd,41.866624,-87.694521,15,4/27/2015
+60605,Downtown,41,20,Federal St & Polk St,41.872078,-87.629544,19,4/25/2015
+60601,Downtown,7,27,Field Blvd & South Water St,41.886349,-87.617517,19,4/18/2015
+60605,Downtown,89,20,Financial Pl & Congress Pkwy,41.875009,-87.633106,31,05-08-2015
+60616,Downtown,150,25,Fort Dearborn Dr & 31st St,41.838556,-87.608218,15,7/23/2013
+60625,North Side ,471,5,Francisco Ave & Foster Ave,41.975633,-87.701419,15,5/14/2015
+60610,Downtown,31,54,Franklin St & Chicago Ave,41.896802,-87.635638,23,6/22/2013
+60606,Downtown,36,31,Franklin St & Jackson Blvd,41.877708,-87.635321,31,6/15/2013
+60606,Downtown,164,31,Franklin St & Lake St,41.885837,-87.6355,23,08-03-2013
+60606,Downtown,287,31,Franklin St & Monroe St,41.880317,-87.635185,27,9/13/2013
+60606,Downtown,286,31,Franklin St & Quincy St,41.878724,-87.634793,23,9/14/2013
+60626,Other South Sides,447,1,Glenwood Ave & Morse Ave,42.007972,-87.665502,15,5/15/2015
+60607,Downtown,198,29,Green St & Madison St,41.881892,-87.648789,19,08-10-2013
+60607,Downtown,112,29,Green St & Randolph St,41.883668,-87.64867,15,7/29/2013
+60614,North Side ,319,32,Greenview Ave & Diversey Pkwy,41.932595,-87.665939,15,9/26/2013
+60614,North Side ,188,32,Greenview Ave & Fullerton Ave,41.92533,-87.6658,15,7/29/2013
+60653,Other South Sides,252,21,Greenwood Ave & 47th St,41.809835,-87.599383,15,8/27/2013
+60608,Downtown,202,28,Halsted St & 18th St,41.857499,-87.646277,15,8/15/2013
+60608,Downtown,135,28,Halsted St & 21st St,41.85378,-87.64665,11,7/24/2013
+60608,Downtown,279,28,Halsted St & 35th St,41.830661,-87.647172,15,9/13/2013
+60609,Other South Sides,262,22,Halsted St & 37th St,41.827059,-87.64572,11,10-01-2013
+60609,Other South Sides,411,22,Halsted St & 47th Pl,41.808134,-87.645617,11,4/15/2015
+60609,Other South Sides,384,22,Halsted St & 51st St,41.801832,-87.645214,15,4/15/2015
+60621,Other South Sides,386,9,Halsted St & 56th St,41.79293,-87.64499,15,4/15/2015
+60621,Other South Sides,593,9,Halsted St & 59th St,41.787539,-87.644874,11,6/21/2016
+60621,Other South Sides,388,9,Halsted St & 63rd St,41.779381,-87.644621,15,4/21/2015
+60621,Other South Sides,391,9,Halsted St & 69th St,41.769062,-87.644614,15,4/21/2015
+60616,Downtown,206,25,Halsted St & Archer Ave,41.847203,-87.646795,15,8/14/2013
+60642,Downtown,331,46,Halsted St & Blackhawk St,41.908537,-87.648627,19,9/28/2013
+60614,North Side ,225,32,Halsted St & Dickens Ave,41.919936,-87.64883,15,8/19/2013
+60614,North Side ,332,32,Halsted St & Diversey Pkwy,41.933666,-87.648959,20,9/28/2013
+60607,Downtown,282,29,Halsted St & Maxwell St,41.864883,-87.647071,15,9/13/2013
+60642,Downtown,365,46,Halsted St & North Branch St,41.899368,-87.64848,15,5/16/2015
+60607,Downtown,108,29,Halsted St & Polk St,41.87184,-87.64664,19,08-06-2013
+60607,Downtown,55,29,Halsted St & Roosevelt Rd,41.867324,-87.648625,23,6/17/2013
+60657,North Side ,299,7,Halsted St & Roscoe St,41.94367,-87.64895,15,9/19/2013
+60614,North Side ,224,32,Halsted St & Willow St,41.913778,-87.64884,19,8/22/2013
+60614,North Side ,349,32,Halsted St & Wrightwood Ave,41.929143,-87.649077,15,10/28/2013
+60614,North Side ,220,32,Hampden Ct & Diversey Pkwy,41.93262,-87.642385,23,8/19/2013
+60637,Other South Sides,425,60,Harper Ave & 59th St,41.787943,-87.588315,15,4/17/2015
+60612,Downtown,261,16,Hermitage Ave & Polk St,41.871514,-87.669886,15,09-05-2013
+60609,Other South Sides,551,22,Hoyne Ave & 47th St,41.808227,-87.67718,11,6/17/2016
+60647,Downtown,507,33,Humboldt Blvd & Armitage Ave,41.917513,-87.701809,19,05-01-2015
+60622,Downtown,372,36,Humboldt Dr & Luis Munoz Marin Dr,41.900146,-87.702882,15,4/30/2015
+60616,Downtown,147,25,Indiana Ave & 26th St,41.8457,-87.62248,15,7/23/2013
+60616,Downtown,272,25,Indiana Ave & 31st St,41.838842,-87.621857,11,09-12-2013
+60653,Other South Sides,201,21,Indiana Ave & 40th St,41.82168,-87.6216,15,8/14/2013
+60605,Downtown,255,20,Indiana Ave & Roosevelt Rd,41.867888,-87.623041,31,09-05-2013
+60661,Downtown,73,30,Jefferson St & Monroe St,41.880422,-87.642746,19,6/27/2013
+60649,Other South Sides,352,11,Jeffery Blvd & 67th St,41.773518,-87.577143,15,4/22/2015
+60649,Other South Sides,11,11,Jeffery Blvd & 71st St,41.766638,-87.57645,11,4/22/2015
+60649,Other South Sides,395,11,Jeffery Blvd & 76th St,41.75712,-87.575839,15,4/23/2015
+60623,Other South Sides,439,57,Kedzie Ave & 21st St,41.853534,-87.705073,15,4/28/2015
+60623,Other South Sides,441,57,Kedzie Ave & 24th St,41.848191,-87.705414,15,4/29/2015
+60625,North Side ,494,5,Kedzie Ave & Bryn Mawr Ave,41.982397,-87.708923,15,5/18/2015
+60612,Downtown,373,16,Kedzie Ave & Chicago Ave,41.895465,-87.706128,15,4/29/2015
+60625,North Side ,470,5,Kedzie Ave & Foster Ave,41.975672,-87.709261,15,05-06-2015
+60624,Other South Sides,433,17,Kedzie Ave & Harrison St,41.8736,-87.704871,15,4/28/2015
+60624,Other South Sides,377,17,Kedzie Ave & Lake St,41.884603,-87.706304,19,4/29/2015
+60625,North Side ,476,5,Kedzie Ave & Leland Ave,41.966686,-87.708052,15,05-05-2015
+60647,Downtown,260,33,Kedzie Ave & Milwaukee Ave,41.929567,-87.707857,19,9/17/2013
+60625,North Side ,480,5,Kedzie Ave & Montrose Ave,41.96199,-87.708168,15,05-05-2015
+60647,Downtown,290,33,Kedzie Ave & Palmer Ct,41.921525,-87.707322,15,10-09-2013
+60612,Downtown,435,16,Kedzie Ave & Roosevelt Rd,41.866493,-87.706496,15,4/28/2015
+60641,Far North Side,483,6,Keeler Ave & Irving Park Rd,41.953858,-87.73257,19,05-06-2015
+60624,Other South Sides,537,17,Kenton Ave & Madison St,41.880708,-87.741018,15,06-10-2016
+60630,Far North Side,495,45,Keystone Ave & Montrose Ave,41.961108,-87.72897,15,5/16/2015
+60618,North Side ,497,24,Kimball Ave & Belmont Ave,41.939398,-87.711561,23,05-02-2015
+60615,Other South Sides,322,8,Kimbark Ave & 53rd St,41.799568,-87.594747,19,9/21/2013
+60654,Downtown,74,55,Kingsbury St & Erie St,41.893882,-87.641711,23,6/14/2013
+60654,Downtown,133,55,Kingsbury St & Kinzie St,41.889177,-87.638506,27,4/25/2015
+60647,Downtown,499,33,Kosciuszko Park,41.930585,-87.723777,15,05-01-2015
+60624,Other South Sides,545,17,Kostner Ave & Adams St,41.877917,-87.735737,15,6/15/2016
+60624,Other South Sides,536,17,Kostner Ave & Lake St,41.885928,-87.73541,15,6/13/2016
+60653,Other South Sides,406,21,Lake Park Ave & 35th St,41.831274,-87.608799,19,4/14/2015
+60615,Other South Sides,267,8,Lake Park Ave & 47th St,41.809443,-87.591875,15,9/17/2013
+60615,Other South Sides,419,8,Lake Park Ave & 53rd St,41.799494,-87.58645,15,4/16/2015
+60637,Other South Sides,345,60,Lake Park Ave & 56th St,41.793242,-87.587782,19,10-09-2013
+60657,North Side ,334,7,Lake Shore Dr & Belmont Ave,41.940775,-87.639192,19,9/27/2013
+60657,North Side ,329,7,Lake Shore Dr & Diversey Pkwy,41.932684,-87.63625,15,9/25/2013
+60603,Downtown,76,19,Lake Shore Dr & Monroe St,41.880958,-87.616743,39,6/24/2013
+60611,Downtown,268,38,Lake Shore Dr & North Blvd,41.911722,-87.626804,39,09-12-2013
+60611,Downtown,99,38,Lake Shore Dr & Ohio St,41.89257,-87.614492,19,7/15/2013
+60657,North Side ,157,7,Lake Shore Dr & Wellington Ave,41.936669,-87.636794,15,08-01-2013
+60630,Far North Side,459,45,Lakefront Trail & Bryn Mawr Ave,41.984037,-87.65231,19,05-11-2015
+60614,North Side ,313,32,Lakeview Ave & Fullerton Pkwy,41.925858,-87.638973,19,9/20/2013
+60644,Other South Sides,543,18,Laramie Ave & Gladys Ave,41.875806,-87.755285,15,6/14/2016
+60644,Other South Sides,530,18,Laramie Ave & Kinzie St,41.887832,-87.755527,15,6/13/2016
+60644,Other South Sides,540,18,Laramie Ave & Madison St,41.88051,-87.753933,15,6/14/2016
+60614,North Side ,288,32,Larrabee St & Armitage Ave,41.918084,-87.643749,11,9/13/2013
+60610,Downtown,359,54,Larrabee St & Division St,41.903486,-87.643353,19,05-02-2015
+60654,Downtown,48,55,Larrabee St & Kingsbury St,41.897764,-87.642884,27,6/16/2013
+60614,North Side ,28,32,Larrabee St & Menomonee St,41.91468,-87.64332,15,6/22/2013
+60610,Downtown,27,54,Larrabee St & North Ave,41.91021,-87.6435,19,6/22/2013
+60610,Downtown,364,54,Larrabee St & Oak St,41.900219,-87.642985,15,05-02-2015
+60614,North Side ,144,32,Larrabee St & Webster Ave,41.921822,-87.64414,15,08-02-2013
+60604,Downtown,40,48,LaSalle St & Adams St,41.879344,-87.631985,15,4/25/2015
+60654,Downtown,181,55,LaSalle St & Illinois St,41.890749,-87.63206,31,7/21/2013
+60604,Downtown,283,48,LaSalle St & Jackson Blvd,41.87817,-87.631985,31,9/14/2013
+60602,Downtown,98,26,LaSalle St & Washington St,41.882664,-87.63253,15,7/15/2013
+60623,Other South Sides,440,57,Lawndale Ave & 23rd St,41.849882,-87.717,15,05-07-2015
+60618,North Side ,492,24,Leavitt St & Addison St,41.947029,-87.683367,15,5/13/2015
+60609,Other South Sides,9,22,Leavitt St & Archer Ave,41.828792,-87.680604,19,4/14/2015
+60647,Downtown,309,33,Leavitt St & Armitage Ave,41.917805,-87.682437,11,9/20/2013
+60625,North Side ,311,5,Leavitt St & Lawrence Ave,41.968885,-87.684001,19,9/20/2013
+60647,Downtown,213,33,Leavitt St & North Ave,41.910153,-87.68229,15,8/16/2013
+60613,North Side ,330,53,Lincoln Ave & Addison St,41.946176,-87.673308,19,9/26/2013
+60618,North Side ,298,24,Lincoln Ave & Belle Plaine Ave,41.955927,-87.679259,15,10-01-2013
+60657,North Side ,131,7,Lincoln Ave & Belmont Ave,41.939365,-87.668385,15,9/23/2013
+60614,North Side ,152,32,Lincoln Ave & Diversey Pkwy,41.932225,-87.658617,15,7/29/2013
+60614,North Side ,127,32,Lincoln Ave & Fullerton Ave,41.925905,-87.64926,15,10/29/2013
+60618,North Side ,243,24,Lincoln Ave & Leavitt St,41.962391,-87.684146,15,8/22/2013
+60657,North Side ,230,7,Lincoln Ave & Roscoe St,41.94334,-87.67097,19,8/20/2013
+60613,North Side ,257,53,Lincoln Ave & Waveland Ave,41.94911,-87.675112,15,09-09-2013
+60625,North Side ,472,5,Lincoln Ave & Winona St,41.974911,-87.692503,15,05-06-2015
+60647,Downtown,258,33,Logan Blvd & Elston Ave,41.930584,-87.685126,19,09-09-2013
+60608,Downtown,366,28,Loomis St & Archer Ave,41.841633,-87.657435,15,4/13/2015
+60607,Downtown,146,29,Loomis St & Jackson Blvd,41.877945,-87.662007,11,7/28/2013
+60607,Downtown,320,29,Loomis St & Lexington St,41.872187,-87.661501,15,9/21/2013
+60607,Downtown,19,29,Loomis St & Taylor St,41.869417,-87.660996,15,6/21/2013
+60625,North Side ,477,5,Manor Ave & Leland Ave,41.966318,-87.701083,11,05-05-2015
+60659,Far North Side,455,50,Maplewood Ave & Peterson Ave,41.990236,-87.69337,15,05-12-2015
+60640,North Side ,465,4,Marine Dr & Ainslie St,41.9716,-87.650154,23,7/17/2015
+60609,Other South Sides,549,22,Marshfield Ave & 44th St,41.813996,-87.666589,11,6/16/2016
+60636,Other South Sides,560,10,Marshfield Ave & 59th St,41.786833,-87.666215,11,6/20/2016
+60622,Downtown,58,36,Marshfield Ave & Cortland St,41.916017,-87.668879,23,6/18/2013
+60644,Other South Sides,544,18,Mason Ave & Madison St,41.87998,-87.773264,15,6/14/2016
+60621,Other South Sides,567,9,May St & 69th St,41.768938,-87.652934,11,6/21/2016
+60608,Downtown,171,28,May St & Cullerton St,41.855136,-87.654127,11,7/25/2013
+60607,Downtown,217,29,May St & Fulton St,41.886773,-87.656001,15,8/16/2013
+60607,Downtown,88,29,May St & Randolph St,41.88397,-87.655688,15,6/27/2013
+60607,Downtown,22,29,May St & Taylor St,41.869482,-87.655486,15,6/21/2013
+60642,Downtown,142,46,McClurg Ct & Erie St,41.894503,-87.617854,31,05-08-2015
+60605,Downtown,26,20,McClurg Ct & Illinois St,41.89102,-87.6173,31,6/22/2013
+60616,Downtown,62,25,McCormick Place,41.851375,-87.618835,27,6/18/2013
+60605,Downtown,168,20,Michigan Ave & 14th St,41.864059,-87.623727,19,08-03-2013
+60616,Downtown,273,25,Michigan Ave & 18th St,41.857813,-87.62455,23,09-12-2013
+60605,Downtown,45,20,Michigan Ave & Congress Pkwy,41.876243,-87.624426,15,6/16/2013
+60604,Downtown,284,48,Michigan Ave & Jackson Blvd,41.87785,-87.62408,23,9/14/2013
+60601,Downtown,52,27,Michigan Ave & Lake St,41.886024,-87.624117,31,6/17/2013
+60601,Downtown,197,27,Michigan Ave & Madison St,41.882134,-87.625125,19,08-10-2013
+60611,Downtown,85,38,Michigan Ave & Oak St,41.90096,-87.623777,23,6/21/2013
+60611,Downtown,25,38,Michigan Ave & Pearson St,41.89766,-87.62351,23,6/22/2013
+60602,Downtown,43,26,Michigan Ave & Washington St,41.883893,-87.624649,43,6/16/2013
+60611,Downtown,145,38,Mies van der Rohe Way & Chestnut St,41.898587,-87.621915,19,05-08-2015
+60611,Downtown,173,38,Mies van der Rohe Way & Chicago Ave,41.89691,-87.621743,15,08-01-2013
+60623,Other South Sides,443,57,Millard Ave & 26th St,41.844567,-87.71591,15,4/29/2015
+60603,Downtown,90,19,Millennium Park,41.881032,-87.624084,35,6/16/2013
+60647,Downtown,222,33,Milwaukee Ave & Rockwell St,41.920195,-87.693033,19,8/22/2013
+60647,Downtown,158,33,Milwaukee Ave & Wabansia Ave,41.912616,-87.681391,15,7/26/2013
+60616,Downtown,237,25,MLK Jr Dr & 29th St,41.842052,-87.617,15,8/21/2013
+60653,Other South Sides,200,21,MLK Jr Dr & 47th St,41.809851,-87.616279,11,8/14/2013
+60637,Other South Sides,421,60,MLK Jr Dr & 56th St,41.793429,-87.615853,15,4/20/2015
+60637,Other South Sides,430,60,MLK Jr Dr & 63rd St,41.780081,-87.615943,15,4/21/2015
+60653,Other South Sides,179,21,MLK Jr Dr & Oakwood Blvd,41.82256,-87.61615,15,7/24/2013
+60618,North Side ,484,24,Monticello Ave & Irving Park Rd,41.954005,-87.719128,15,05-06-2015
+60613,North Side ,249,53,Montrose Harbor,41.963982,-87.638181,31,8/26/2013
+60608,Downtown,137,28,Morgan Ave & 14th Pl,41.862378,-87.651062,15,7/31/2013
+60608,Downtown,14,28,Morgan St & 18th St,41.858086,-87.651073,15,6/20/2013
+60608,Downtown,280,28,Morgan St & 31st St,41.8378,-87.65114,11,9/13/2013
+60607,Downtown,71,29,Morgan St & Lake St,41.885483,-87.652305,15,6/24/2013
+60609,Other South Sides,548,22,Morgan St & Pershing Rd,41.823613,-87.650931,11,6/16/2016
+60612,Downtown,241,16,Morgan St & Polk St,41.871737,-87.65103,15,8/22/2013
+60605,Downtown,97,20,Museum Campus,41.865212,-87.617759,35,6/26/2013
+60637,Other South Sides,424,60,Museum of Science and Industry,41.791728,-87.583945,27,4/17/2015
+60642,Downtown,29,46,Noble St & Milwaukee Ave,41.90068,-87.6626,15,6/22/2013
+60621,Other South Sides,568,9,Normal Ave & 72nd St,41.763462,-87.637297,11,6/23/2016
+60616,Downtown,209,25,Normal Ave & Archer Ave,41.849527,-87.640591,11,8/15/2013
+60618,North Side ,486,24,Oakley Ave & Irving Park Rd,41.954341,-87.68608,15,5/13/2015
+60642,Downtown,54,46,Ogden Ave & Chicago Ave,41.896362,-87.654061,19,6/17/2013
+60612,Downtown,122,16,Ogden Ave & Congress Pkwy,41.87501,-87.67328,15,7/28/2013
+60642,Downtown,186,46,Ogden Ave & Race Ave,41.891795,-87.658751,15,7/28/2013
+60608,Downtown,434,28,Ogden Ave & Roosevelt Rd,41.866501,-87.684697,19,4/27/2015
+60610,Downtown,23,54,Orleans St & Elm St,41.902924,-87.637715,15,6/21/2013
+60654,Downtown,100,55,Orleans St & Merchandise Mart Plaza,41.888243,-87.63639,23,7/16/2013
+60622,Downtown,16,36,Paulina Ave & North Ave,41.910337,-87.670072,11,08-12-2013
+60608,Downtown,205,28,Paulina St & 18th St,41.857901,-87.668745,15,8/15/2013
+60613,North Side ,297,53,Paulina St & Montrose Ave,41.961507,-87.671387,15,9/18/2013
+60607,Downtown,134,29,Peoria St & Jackson Blvd,41.877749,-87.649633,19,7/25/2013
+60621,Other South Sides,392,9,Perry Ave & 69th St,41.769293,-87.628196,15,05-07-2015
+60613,North Side ,254,53,Pine Grove Ave & Irving Park Rd,41.954383,-87.648043,15,09-09-2013
+60613,North Side ,232,53,Pine Grove Ave & Waveland Ave,41.949275,-87.646303,23,8/21/2013
+60653,Other South Sides,410,21,Prairie Ave & 43rd St,41.816659,-87.619412,19,4/15/2015
+60637,Other South Sides,204,60,Prairie Ave & Garfield Blvd,41.794853,-87.618691,15,8/14/2013
+60609,Other South Sides,412,22,Princeton Ave & 47th St,41.809318,-87.633449,19,4/15/2015
+60621,Other South Sides,385,9,Princeton Ave & Garfield Blvd,41.794982,-87.633124,15,4/24/2015
+60624,Other South Sides,535,17,Pulaski Rd & Congress Pkwy,41.874325,-87.725704,15,6/15/2016
+60641,Far North Side,488,6,Pulaski Rd & Eddy St,41.945636,-87.727737,15,5/13/2015
+60624,Other South Sides,528,17,Pulaski Rd & Lake St,41.885409,-87.726491,15,6/15/2016
+60624,Other South Sides,534,17,Pulaski Rd & Madison St,41.880827,-87.726279,15,6/13/2016
+60608,Downtown,136,28,Racine Ave & 13th St,41.865054,-87.656959,15,7/31/2013
+60608,Downtown,274,28,Racine Ave & 15th St,41.861267,-87.656625,15,09-12-2013
+60608,Downtown,15,28,Racine Ave & 18th St,41.858166,-87.656495,15,6/20/2013
+60608,Downtown,367,28,Racine Ave & 35th St,41.830696,-87.655976,15,4/13/2015
+60636,Other South Sides,562,10,Racine Ave & 61st St,41.783189,-87.654372,11,6/20/2016
+60636,Other South Sides,564,10,Racine Ave & 65th St,41.775393,-87.654308,11,6/21/2016
+60657,North Side ,226,7,Racine Ave & Belmont Ave,41.939743,-87.658865,15,8/19/2013
+60607,Downtown,32,29,Racine Ave & Congress Pkwy,41.87464,-87.65703,19,6/21/2013
+60614,North Side ,87,32,Racine Ave & Fullerton Ave,41.925563,-87.658404,19,6/26/2013
+60636,Other South Sides,559,10,Racine Ave & Garfield Blvd,41.794694,-87.654947,11,6/20/2016
+60614,North Side ,343,32,Racine Ave & Wrightwood Ave,41.928887,-87.658971,15,10/24/2013
+60649,Other South Sides,398,11,Rainbow Beach,41.757871,-87.549386,19,4/23/2015
+60640,North Side ,462,4,Ravenswood Ave & Balmoral Ave,41.97977,-87.675815,15,5/14/2015
+60613,North Side ,314,53,Ravenswood Ave & Berteau Ave,41.957921,-87.673567,15,9/27/2013
+60613,North Side ,244,53,Ravenswood Ave & Irving Park Rd,41.95469,-87.67393,19,8/22/2013
+60640,North Side ,344,4,Ravenswood Ave & Lawrence Ave,41.96909,-87.674237,39,10-09-2013
+60613,North Side ,238,53,Ravenswood Ave & Montrose Ave,41.961615,-87.674365,15,8/22/2013
+60616,Downtown,263,25,Rhodes Ave & 32nd St,41.836208,-87.613533,11,9/17/2013
+60647,Downtown,501,33,Richmond St & Diversey Ave,41.931902,-87.701195,15,05-05-2015
+60645,Far North Side,466,2,Ridge Blvd & Touhy Ave,42.012132,-87.682913,15,5/15/2015
+60610,Downtown,180,54,Ritchie Ct & Banks St,41.906782,-87.626402,15,05-09-2015
+60625,North Side ,478,5,Rockwell St & Eastwood Ave,41.9659,-87.693638,15,05-05-2015
+60611,Downtown,172,38,Rush St & Cedar St,41.902309,-87.627691,11,05-09-2015
+60611,Downtown,125,38,Rush St & Hubbard St,41.890011,-87.626293,15,05-08-2015
+60611,Downtown,161,38,Rush St & Superior St,41.895765,-87.625908,23,05-09-2015
+60612,Downtown,375,16,Sacramento Blvd & Franklin Blvd,41.889727,-87.70103,15,4/30/2015
+60649,Other South Sides,397,11,Saginaw Ave & Exchange Ave,41.758746,-87.560115,11,4/23/2015
+60607,Downtown,233,29,Sangamon St & Washington Blvd,41.883004,-87.651148,15,8/29/2013
+60618,North Side ,485,24,Sawyer Ave & Irving Park Rd,41.953586,-87.709311,15,05-04-2015
+60654,Downtown,111,55,Sedgwick St & Huron St,41.894666,-87.638437,19,08-01-2013
+60614,North Side ,118,32,Sedgwick St & North Ave,41.911386,-87.638677,19,08-01-2013
+60610,Downtown,236,54,Sedgwick St & Schiller St,41.907576,-87.638517,15,8/21/2013
+60614,North Side ,143,32,Sedgwick St & Webster Ave,41.922167,-87.638888,15,08-03-2013
+60618,North Side ,308,24,Seeley Ave & Roscoe St,41.943403,-87.679618,11,9/27/2013
+60605,Downtown,3,20,Shedd Aquarium,41.867226,-87.615355,31,4/24/2015
+60657,North Side ,114,7,Sheffield Ave & Addison St,41.946966,-87.654242,27,08-02-2013
+60614,North Side ,67,32,Sheffield Ave & Fullerton Ave,41.925602,-87.653708,19,6/20/2013
+60610,Downtown,20,54,Sheffield Ave & Kingsbury St,41.910522,-87.653106,15,6/21/2013
+60614,North Side ,327,32,Sheffield Ave & Webster Ave,41.92154,-87.653818,19,9/25/2013
+60657,North Side ,115,7,Sheffield Ave & Wellington Ave,41.936253,-87.653566,23,7/22/2013
+60614,North Side ,93,32,Sheffield Ave & Willow St,41.913688,-87.652855,15,6/27/2013
+60614,North Side ,302,32,Sheffield Ave & Wrightwood Ave,41.928712,-87.653833,19,9/20/2013
+60613,North Side ,306,53,Sheridan Rd & Buena Ave,41.958494,-87.654966,15,9/23/2013
+60626,Other South Sides,354,1,Sheridan Rd & Greenleaf Ave,42.010587,-87.662412,15,5/15/2015
+60613,North Side ,240,53,Sheridan Rd & Irving Park Rd,41.954245,-87.654406,23,8/21/2013
+60640,North Side ,323,4,Sheridan Rd & Lawrence Ave,41.969517,-87.654691,15,9/23/2013
+60626,Other South Sides,451,1,Sheridan Rd & Loyola Ave,42.001044,-87.661198,15,5/15/2015
+60613,North Side ,231,53,Sheridan Rd & Montrose Ave,41.96167,-87.65464,15,8/20/2013
+60616,Downtown,401,25,Shields Ave & 28th Pl,41.842733,-87.635491,11,05-07-2015
+60616,Downtown,402,25,Shields Ave & 31st St,41.838464,-87.635406,15,4/14/2015
+60609,Other South Sides,409,22,Shields Ave & 43rd St,41.816208,-87.634819,15,4/15/2015
+60615,Other South Sides,247,8,Shore Dr & 55th St,41.795212,-87.580715,19,8/23/2013
+60649,Other South Sides,355,11,South Shore Dr & 67th St,41.773669,-87.567339,19,4/22/2015
+60649,Other South Sides,12,11,South Shore Dr & 71st St,41.766409,-87.565688,15,4/22/2015
+60649,Other South Sides,399,11,South Shore Dr & 74th St,41.762189,-87.559275,11,4/23/2015
+60657,North Side ,154,7,Southport Ave & Belmont Ave,41.93949,-87.66378,15,7/29/2013
+60613,North Side ,292,53,Southport Ave & Clark St,41.957081,-87.664199,11,9/14/2013
+60614,North Side ,307,32,Southport Ave & Clybourn Ave,41.920771,-87.663712,15,9/25/2013
+60613,North Side ,318,53,Southport Ave & Irving Park Rd,41.954177,-87.664358,15,9/21/2013
+60657,North Side ,229,7,Southport Ave & Roscoe St,41.943739,-87.66402,19,8/29/2013
+60613,North Side ,227,53,Southport Ave & Waveland Ave,41.94815,-87.66394,15,8/20/2013
+60657,North Side ,153,7,Southport Ave & Wellington Ave,41.935733,-87.663576,19,7/25/2013
+60614,North Side ,190,32,Southport Ave & Wrightwood Ave,41.928773,-87.663913,15,08-06-2013
+60647,Downtown,506,33,Spaulding Ave & Armitage Ave,41.917184,-87.710357,15,4/30/2015
+60651,Other South Sides,510,37,Spaulding Ave & Division St,41.902707,-87.70922,15,4/30/2015
+60611,Downtown,211,38,St. Clair St & Erie St,41.894448,-87.622663,19,8/15/2013
+60625,North Side ,469,5,St. Louis Ave & Balmoral Ave,41.980394,-87.716115,15,5/16/2015
+60441,Other South Sides,178,,State St & 19th St,41.856594,-87.627542,15,7/22/2013
+60616,Downtown,193,25,State St & 29th St,41.841707,-87.626938,15,8/23/2013
+60616,Downtown,148,25,State St & 33rd St,41.834734,-87.625813,11,8/27/2013
+60616,Downtown,184,25,State St & 35th St,41.83104,-87.62688,19,08-03-2013
+60619,Other South Sides,572,61,State St & 76th St,41.756971,-87.624621,11,6/23/2016
+60605,Downtown,5,20,State St & Harrison St,41.874053,-87.627716,23,6/18/2013
+60611,Downtown,47,38,State St & Kinzie St,41.88918,-87.6277,23,6/18/2013
+60610,Downtown,106,54,State St & Pearson St,41.897448,-87.628722,27,08-01-2013
+60609,Other South Sides,407,22,State St & Pershing Rd,41.823015,-87.626568,19,4/14/2015
+60602,Downtown,44,26,State St & Randolph St,41.88473,-87.627734,27,6/16/2013
+60604,Downtown,33,48,State St & Van Buren St,41.877181,-87.627844,27,6/25/2013
+60647,Downtown,185,33,Stave St & Armitage Ave,41.917741,-87.691392,11,7/26/2013
+60601,Downtown,264,27,Stetson Ave & South Water St,41.886835,-87.62232,19,9/18/2013
+60639,Northwest Side,324,34,Stockton Dr & Wrightwood Ave,41.93132,-87.638742,15,10-03-2013
+60637,Other South Sides,95,60,Stony Island Ave & 64th St,41.778701,-87.586788,15,05-07-2015
+60649,Other South Sides,102,11,Stony Island Ave & 67th St,41.773458,-87.58534,11,4/22/2015
+60649,Other South Sides,356,11,Stony Island Ave & 71st St,41.766493,-87.586461,11,4/22/2015
+60649,Other South Sides,270,11,Stony Island Ave & 75th St,41.75867,-87.586883,15,4/24/2015
+60611,Downtown,35,38,Streeter Dr & Grand Ave,41.892278,-87.612043,47,08-05-2013
+60618,North Side ,491,24,Talman Ave & Addison St,41.946636,-87.694615,15,05-04-2015
+60604,Downtown,177,48,Theater on the Lake,41.926277,-87.630834,23,8/13/2013
+60609,Other South Sides,556,22,Throop St & 52nd St,41.799659,-87.657195,11,6/17/2016
+60618,North Side ,490,24,Troy St & Elston Ave,41.945244,-87.70665,15,05-04-2015
+60647,Downtown,509,33,Troy St & North Ave,41.909769,-87.70528,15,4/30/2015
+60609,Other South Sides,408,22,Union Ave & 42nd St,41.817638,-87.643565,15,4/15/2015
+60654,Downtown,84,55,Union Ave & Grand Ave,41.891,-87.645925,19,6/26/2013
+60637,Other South Sides,423,60,University Ave & 57th St,41.791478,-87.599861,19,4/17/2015
+60616,Downtown,72,25,Wabash Ave & 16th St,41.860384,-87.625813,15,6/24/2013
+60605,Downtown,321,20,Wabash Ave & 8th St,41.871962,-87.626106,19,9/21/2013
+60604,Downtown,39,48,Wabash Ave & Adams St,41.879472,-87.625689,23,4/18/2015
+60616,Downtown,42,25,Wabash Ave & Cermak Rd,41.852619,-87.626488,11,6/18/2013
+60611,Downtown,199,38,Wabash Ave & Grand Ave,41.891738,-87.626937,15,08-10-2013
+60605,Downtown,59,20,Wabash Ave & Roosevelt Rd,41.867227,-87.625961,23,6/18/2013
+60601,Downtown,194,27,Wabash Ave & Wacker Pl,41.886875,-87.62603,19,08-10-2013
+60606,Downtown,18,31,Wacker Dr & Washington St,41.883272,-87.637313,19,4/18/2015
+60616,Downtown,278,25,Wallace St & 35th St,41.830629,-87.64129,15,9/13/2013
+60645,Far North Side,448,2,Warren Park East,42.00455,-87.680666,15,05-12-2015
+60645,Far North Side,450,2,Warren Park West,42.002007,-87.689726,15,05-12-2015
+60608,Downtown,437,28,Washtenaw Ave & 15th St,41.86148,-87.693374,19,5/28/2015
+60625,North Side ,475,5,Washtenaw Ave & Lawrence Ave,41.968711,-87.69617,15,05-05-2015
+60616,Downtown,218,25,Wells St & 19th St,41.856802,-87.633879,11,8/23/2013
+60614,North Side ,289,32,Wells St & Concord Ln,41.912133,-87.634656,19,9/14/2013
+60610,Downtown,182,54,Wells St & Elm St,41.903222,-87.634324,23,6/16/2015
+60610,Downtown,291,54,Wells St & Evergreen Ave,41.906724,-87.63483,19,9/14/2013
+60654,Downtown,212,55,Orleans St & Ohio St,41.892154,-87.636928,23,8/16/2013
+60654,Downtown,53,55,Wells St & Huron St,41.894729,-87.633775,19,6/17/2013
+60607,Downtown,175,29,Wells St & Polk St,41.872373,-87.633523,19,08-03-2013
+60610,Downtown,46,54,Wells St & Walton St,41.89993,-87.63443,19,6/14/2013
+60616,Downtown,132,25,Wentworth Ave & 24th St,41.849237,-87.631715,15,09-05-2013
+60616,Downtown,403,25,Wentworth Ave & 33rd St,41.83453,-87.631823,15,4/14/2015
+60621,Other South Sides,390,9,Wentworth Ave & 63rd St,41.78008,-87.629746,15,5/18/2015
+60616,Downtown,120,25,Wentworth Ave & Archer Ave,41.853605,-87.631886,23,08-06-2013
+60608,Downtown,203,28,Western Ave & 21st St,41.85394,-87.685243,15,8/15/2013
+60608,Downtown,281,28,Western Ave & 24th St,41.84847,-87.685109,15,9/13/2013
+60608,Downtown,446,28,Western Ave & 28th St,41.841518,-87.685131,15,5/21/2015
+60612,Downtown,382,16,Western Ave & Congress Pkwy,41.874749,-87.686445,19,4/27/2015
+60622,Downtown,305,36,Western Ave & Division St,41.902893,-87.687275,15,9/21/2013
+60659,Far North Side,452,50,Western Ave & Granville Ave,41.994161,-87.689438,15,05-12-2015
+60625,North Side ,239,5,Western Ave & Leland Ave,41.966555,-87.688487,19,8/21/2013
+60645,Far North Side,467,2,Western Ave & Lunt Ave,42.008594,-87.690492,15,5/15/2015
+60612,Downtown,381,16,Western Ave & Monroe St,41.879788,-87.686113,15,4/27/2015
+60618,North Side ,493,24,Western Ave & Roscoe St,41.943026,-87.687395,15,05-04-2015
+60622,Downtown,374,36,Western Ave & Walton St,41.898418,-87.686596,15,4/27/2015
+60647,Downtown,116,33,Western Ave & Winnebago Ave,41.915533,-87.687051,15,7/26/2013
+60609,Other South Sides,594,22,Western Blvd & 48th Pl,41.805661,-87.683392,15,6/17/2016
+60657,North Side ,117,7,Wilton Ave & Belmont Ave,41.94018,-87.65304,23,08-02-2013
+60614,North Side ,13,32,Wilton Ave & Diversey Pkwy,41.932418,-87.652705,27,6/20/2013
+60614,North Side ,505,32,Winchester Ave & Elston Ave,41.924091,-87.67646,15,05-07-2015
+60612,Downtown,342,16,Wolcott Ave & Polk St,41.871262,-87.673688,15,10-12-2013
+60609,Other South Sides,369,22,Wood St & 35th St,41.830105,-87.670298,11,4/14/2015
+60622,Downtown,17,36,Wood St & Division St,41.90332,-87.67273,15,6/20/2013
+60622,Downtown,285,36,Wood St & Grand Ave,41.89113,-87.67203,15,9/13/2013
+60622,Downtown,61,36,Wood St & Milwaukee Ave,41.907655,-87.672552,15,6/18/2013
+60612,Downtown,317,16,Wood St & Taylor St,41.869154,-87.671045,23,9/21/2013
+60615,Other South Sides,248,8,Woodlawn Ave & 55th St,41.795264,-87.596471,19,8/23/2013
+60619,Other South Sides,569,61,Woodlawn Ave & 75th St,41.75916,-87.595751,15,6/23/2016
+60653,Other South Sides,413,21,Woodlawn Ave & Lake Park Ave,41.814093,-87.597005,15,4/14/2015
+60649,Other South Sides,396,11,Yates Blvd & 75th St,41.758768,-87.56644,11,05-07-2015
+60201,Other South Sides,596,,Benson Ave & Church St,42.048214,-87.683485,15,6/29/2016
+60201,Other South Sides,601,,Central St Metra,42.063598,-87.69873,15,6/29/2016
+60202,Other South Sides,597,,Chicago Ave & Washington St,42.032562,-87.679101,15,6/29/2016
+60201,Other South Sides,600,,Dodge Ave & Church St,42.048308,-87.698224,15,6/29/2016
+60302,Other South Sides,607,,Cuyler Ave & Augusta St,41.898168,-87.783055,11,6/30/2016
+60304,Other South Sides,617,,East Ave & Garfield St,41.871312,-87.788938,19,6/27/2016
+60302,Other South Sides,614,,East Ave & Madison St,41.880113,-87.789247,15,6/28/2016
+60305,Other South Sides,609,,Forest Ave & Lake St,41.88891,-87.800255,15,6/30/2016
+60302,Other South Sides,608,,Humphrey Ave & Ontario St,41.890491,-87.776842,11,6/30/2016
+60304,Other South Sides,618,,Lombard Ave & Garfield St,41.87055,-87.77919,19,6/27/2016
+60304,Other South Sides,615,,Lombard Ave & Madison St,41.87981,-87.779425,15,6/28/2016
+60302,Other South Sides,610,,Marion St & South Blvd,41.88681,-87.80287,19,6/30/2016
+60304,Other South Sides,616,,Oak Park Ave & Harrison St,41.872987,-87.793945,19,6/27/2016
+60302,Other South Sides,611,,Oak Park Ave & South Blvd,41.886923,-87.793899,19,6/30/2016
+60302,Other South Sides,613,,Wisconsin Ave & Madison St,41.879837,-87.80224,11,6/28/2016
