@@ -2,3 +2,21 @@ Hackathon on Sales prediction dataset:
 =========================================
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
+Knowledge applied from course:
+================================
+1. CSC-423 - Data Analysis and Regression
+2. CSC-424 - Advance Data Analysis
+3. CSC-465 - Data Visualisation
+4. CSC-433 - Scripting for Data Analytics
+
+Steps that would be tried:
+==========================
+1. We will start with OLS
+2. Then try with few stepwise algorithms
+3. We will apply PCA on data, there by compromising some adj R^2 but trying to improve the RMSE value
+
+Reading the dataset:
+====================
+Train Dataset: Mart_Train.csv
+Test Dataset: Mart_Test.csv
+
