@@ -315,13 +315,31 @@ summary(model3_transformed_treated)
 #since most of the variables are factorial in nature, there is no need of standardizing the value
 
 # Step-17: Model Validation
-FINAL_MODEL <- model3_transformed
+FINAL_MODEL <- lm(log(Item_Outlet_Sales) ~ Outlet_Identifier + Item_MRP, data = data.train)
 final_summary <- summary(FINAL_MODEL); final_summary # adj r-square is 72.41%
+str(data.test)
 COUNT_PREDICTED <- predict(FINAL_MODEL,data.test)
 plot(COUNT_PREDICTED,data.test$Item_Outlet_Sales,lwd=2, cex=2, col="red")
 COUNT_PREDICTED_RE_TRANSFORMED <- exp(COUNT_PREDICTED)
 plot(COUNT_PREDICTED_RE_TRANSFORMED,data.test$count,lwd=2, cex=2, col="green")
 abline(0,1,col='red', lwd=2)
 
-
+# Step-18: Prediction 
+# Prediction Interval
+pred_Int <- predict(FINAL_MODEL,data.test,interval = "predict")
+conf_Int <- predict(FINAL_MODEL,data.test,interval = "confidence")
+converted_pred_int <- exp(pred_Int)
+converted_conf_int <- exp(conf_Int)
+data.test$predicted_count <- converted_pred_int[,1]
+data.test$prediction_interval_low <- converted_pred_int[,2]
+data.test$prediction_interval_high <- converted_pred_int[,3]
+data.test$confidence_interval_low <- converted_conf_int[,2]
+data.test$confidence_interval_high <- converted_conf_int[,3]
+data.prediction.result <- data.frame(data.test$Item_Outlet_Sales,data.test$predicted_count,data.test$prediction_interval_low,data.test$prediction_interval_high,data.test$confidence_interval_low,data.test$confidence_interval_high)
+View(data.prediction.result)
+data.test$predicted_count <- NULL
+data.test$prediction_interval_low <- NULL
+data.test$prediction_interval_high <- NULL
+data.test$confidence_interval_low <- NULL
+data.test$confidence_interval_high <- NULL
 
