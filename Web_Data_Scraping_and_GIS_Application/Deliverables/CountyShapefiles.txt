@@ -1,0 +1,9 @@
+California County and Sub-County Boundaries
+=============================================
+The shape files are 2011 TIGER/Line Shapefiles taken from the census.gov website.
+Link: http://www.census.gov/geo/www/tiger/tgrshp2011/tgrshp2011.html
+
+Shape Files were downloaded for ArcMap and clipped to show only California.
+The data was exported as 'CaCounty' and 'CaSubCounty' shape files.
+
+SCEC-VDO requires the .shp .dbf and .shx files from the shape file to run properly. 
